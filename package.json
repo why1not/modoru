@@ -1,14 +1,16 @@
 {
     "name": "your-bot-name",
     "version": "1.0.0",
-    "description": "Your bot description",
+    "description": "",
     "main": "bot.js",
     "scripts": {
-        "start": "node bot.js"
+      "start": "node bot.js"
     },
     "dependencies": {
-        "discord.js": "^12.5.3" 
+      "vk-io": "^4.1.0",
+      "googleapis": "^39.2.0"
     },
     "author": "",
     "license": "ISC"
-}  
+  }
+  
